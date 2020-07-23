@@ -4,5 +4,5 @@ The purpose of the project is to experiment with Reinforcement Learning so it's 
 thought it should be quite simple to navigate through if one is familiar with the Monte Carlo Method, which is the one used in this project.
 
 User input will consist of some basic information: age, weight, height, number of meals, purpose of the diet (goal), gender.
-the Model itself requires some parameters (Learning rate, epoch length, ...) which are already in place but they could be tweaked to test and study the effect of of each parameter ultimately to reach an effiecnt and accurate Model. **(Extensive study of the Model was not yet made so the current parameters are not probably not the most optimal).
+the Model itself requires some parameters (Learning rate, episodes, ...) which are already in place but they could be tweaked to test and study the effect of of each parameter ultimately to reach an effiecnt and accurate Model. **(Extensive study of the Model was not yet made so the current parameters are not probably not the most optimal).
 
